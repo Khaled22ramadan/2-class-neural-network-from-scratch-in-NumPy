@@ -45,7 +45,6 @@ python neural_network.py
 
 ```
 ├── neural_network.py       # Full implementation
-├── nn_flowchart.html       # Visual stage-by-stage flowchart
 └── README.md
 ```
 
